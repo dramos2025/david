@@ -1,0 +1,11 @@
+
+a = float(input("ingrese el numero"))
+sum = a + 5
+rest = sum - 3
+multiplit = rest * 2
+division = multiplit / 4
+
+print(f'sum: {a + 5}')
+print(f'rest: {sum - 3}')
+print(f'multiplit: {rest * 2}')
+print(f'division: {multiplit / 4}')
