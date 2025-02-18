@@ -1,0 +1,24 @@
+#include <iostream>
+
+int main() { 
+    // definir valor inicicial ¿
+    double valor = 10;
+    
+    //Mostrar valor inicial 
+    count << "Valor inicial: " << valor << end;
+    
+    // Aumentar en 5
+    valor += 5;
+    count << "Después de aumentar en 5: " << valor << end;
+    // Reducir en  3
+    valor -= 3;
+    count << "Después de reducir en 3: " << valor << end;
+    // Multiplicar por 2
+    valor *= 2;
+    count << "Después de multiplicar por 2: " << valor << end;
+    // Dividir entre 4 
+    valor /= 4; 
+        count << "Después de devidir entre 4: " << valor << end;
+        
+    return 0;
+}
