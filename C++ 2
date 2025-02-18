@@ -1,0 +1,17 @@
+#include <iostream>
+
+int mian () {
+    double precio, descuento, descuewnto = 0.15, montoDescuento, preciofinal;
+    
+    count << "Ingrese el precio del articulo: ";
+    cin >> precio;
+    
+    montoDescuento = precio * descuentom;
+    preciofinal = precio - montoDescuento;
+    
+    count << "precio original: " << precio << end;
+    count << "Descuento aplicado (15%): " << montoDescuento << end;
+    count << "preciofinal despues del descuento: " << preciofinal << end;
+    
+    return 0;
+}
