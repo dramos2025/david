@@ -1,0 +1,3 @@
+numero = float(input("Ingrese un numero: "))
+cuadruplete = numero * 4
+print(f" el cuadruplete de {numero} es: {cuadruplete}")
