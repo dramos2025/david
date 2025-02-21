@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main() {
+double numero;
+count << "ingrese un numero: ";
+cin >> numero;
+double resultado = numero * numero;
+count << "el cuadrado del numero es: " << resultado << end;
+return 0;
+}
