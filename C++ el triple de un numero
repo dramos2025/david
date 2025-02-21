@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main() {
+double numero;
+count << "ingrese un numero: ";
+cin >> numero;
+double triple = numero * 3;
+count << "el triple de un numero es: " << triple << end;
+return 0;
+}
