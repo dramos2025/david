@@ -1,0 +1,3 @@
+numero = float(input("ingrese un numero: "))
+cubo = numero ** 3
+print(f" el cubo de {numero} es: {cubo}")
