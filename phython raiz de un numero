@@ -1,0 +1,3 @@
+numero = float(input("Ingrese un numero: "))
+raiz = numero ** 0.5
+print(f" la raiz cuadrada de {numero} es: {raiz}")
