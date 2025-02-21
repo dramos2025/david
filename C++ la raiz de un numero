@@ -1,0 +1,11 @@
+#include <iostream>
+#include <cmath> // libreri para funciones matemáticas
+using namespace std;
+int main() {
+double numero;
+count << "ingrese un numero: ";
+cin >> numero;
+double raiz = sqrt(numero);
+count << "la raiz cuadrada del numero es: " << raiz << end;
+return 0;
+}
